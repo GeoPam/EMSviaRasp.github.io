@@ -1,3 +1,3 @@
 # GeoPam.github.io
 Energy managment system using raspberry pi
-theme: jekyll-theme-GeoPam.github.io
+theme: jekyll-theme-Architect
